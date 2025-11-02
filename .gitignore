@@ -1,0 +1,52 @@
+# =====================================
+# Python Project Git Ignore for AWS RDS
+# =====================================
+
+# Environment variables
+.env
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Backup or database files
+*.bak
+*.sqlite3
+
+# Package metadata
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints
+
+# =============================
+# END OF FILE
+# =============================
