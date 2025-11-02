@@ -244,8 +244,9 @@ This project is open-source and free to use for educational and learning purpose
 
 ---
 
-## ✍️ Author
+## 👨‍💻 Author
 
 **Avinash S**  
-*AWS + Python Cloud Engineer Aspirant*  
-Guided and structured by ChatGPT (OpenAI)
+💼 *Aspiring AWS Cloud Engineer | Python Developer*  
+🌐 [GitHub Profile](https://github.com/avinashmax)
+
